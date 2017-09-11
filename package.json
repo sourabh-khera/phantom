@@ -1,0 +1,16 @@
+{
+  "name": "phantom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sourabh_khera",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.1",
+    "pdf-image": "^1.1.0",
+    "phantomjs": "^2.1.7"
+  }
+}
